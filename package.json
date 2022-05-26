@@ -1,5 +1,5 @@
 {
-  "name": "local-reverse-geocoder",
+  "name": "local-reverse-geocoder-500",
   "version": "0.11.1",
   "description": "Implements a local reverse geocoder based on GeoNames.",
   "main": "index.js",
@@ -34,12 +34,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomayac/local-reverse-geocoder.git"
+    "url": "https://github.com/tkafka/local-reverse-geocoder-500.git"
   },
   "bugs": {
-    "url": "https://github.com/tomayac/local-reverse-geocoder/issues"
+    "url": "https://github.com/tkafka/local-reverse-geocoder-500/issues"
   },
-  "homepage": "https://github.com/tomayac/local-reverse-geocoder",
+  "homepage": "https://github.com/tkafka/local-reverse-geocoder-500",
   "engines": {
     "node": ">=10.15.0",
     "npm": ">=6.0.0"
