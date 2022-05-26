@@ -1,4 +1,4 @@
-# Local Reverse Geocoder
+# Local Reverse Geocoder - tkafka fork ([local-reverse-geocoder-cities](https://www.npmjs.com/package/local-reverse-geocoder-cities) on npm)
 
 This library provides a local reverse geocoder for Node.js that is based on
 [GeoNames](https://download.geonames.org/export/dump/) data. It is _local_ in
